@@ -8,7 +8,8 @@ FIND YOUR GROUP, <STRONG> FOR EACH GROUP MEMBER </STRONG> ENTER YOUR NAME, YOUR 
 <H4> GROUP 1 </H4>
 <p> baileeGame = {gameName: "Escape the Garden", gameURL: "https://baileestrait.github.io/dev-david-lab/", gameAuthor: "Bailee Strait"}; </p>
 <p> jacksonGame = {gameName: "Vroom", gameURL: "https://jaxn-harvey.github.io/dev-david/", gameAuthor: "Jackson Harvey"}; </p>
-<p> isabellaGame = {gameName: "Catch the Butterfly", gameURL: "https://iarcher444.github.io/dev-david-lab/", gameAuthor: "Isabella Archer"}; </p>
+<p> isabellaGame = {gameName: "Catch the Butterfly", gameURL: "https://iarcher444.github.io/dev-david-lab/", gameAuthor: "Isabella Archer"}; </p> 
+<p> millyGame = {gameName: "The Emoji Game", gameURL: "https://mtrejo03.github.io/dev-david-hw/", gameAuthor: "Milly Trejo"}; </p>
 
 <H4> GROUP 2 </H4>
 <p> JanetGame = {gameName: "Futbol Mania", gameURL: "https://jm-2017.github.io/urban-carnival-nuExample/", gameAuthor: "Janet Martinez"}; </p>
