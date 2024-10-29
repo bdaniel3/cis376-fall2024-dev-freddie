@@ -36,13 +36,36 @@ FIND YOUR GROUP, <STRONG> FOR EACH GROUP MEMBER </STRONG> ENTER YOUR NAME, YOUR 
 
 <H4> GROUP 6 </H4>
 <p>kethanGame = {gameName: "Rock-Paper-Scissors", gameURL: "https://kethanpilla.github.io/dev-freddie-hw/", gameAuthor: "Kethan Pilla"};</p>
-<p> ParidhiGame = {gameName: "Wow Game", gameURL: "https://pmalhotra21.github.io/wow-game/", gameAuthor: "Paridhi Malhotra"}; </p>
 
 <H4> GROUP 7 </H4>
-<p>Name:Allison Lacy Game Name:Square Game URL: </p>
-<a href="https://allisonlacy.github.io/alligamerepo/">My Game</a>
+
+    gameName: "Race Against the Clock: Dr. Cumbie's Time Tangle", 
+    gameURL: "https://bdaniel3.github.io/timeTangle/", 
+    gameAuthor: "Brittney Daniel",
+    gameAbout: "It's almost time for class, Drag Dr. Cumbie to the correct time.",
+    gameGroup: "7"
+
+    gameName: "Square Game", 
+    gameURL: "https://allisonlacy.github.io/alligamerepo/", 
+    gameAuthor: "Allison Lacy",
+    gameAbout: "How many times can you click the square?",
+    gameGroup: "7"
+    
+    gameName: "Mario Coin Catcher",
+    gameURL: "https://gbouldin43.github.io/vigilant-giggle-david/",
+    gameAuthor: "Garrett Bouldin",
+    gameAbout: "Drag Mario around the gamespace to catch coins and earn points.",
+    gameGroup: "7"
+
+    gameName: "Cow Game",
+    gameURL: "https://sblakeuna.github.io/literate-octo-disco-david/",
+    gameAuthor: "Spencer Blake",
+    gameAbout: "Use the arrow keys to move the cow. Move 5 times to win!",
+    gameGroup: "7"
+  
 
 <H4> GROUP 8 </H4>
 <p>let alexGame = {gameName: "Spongebob vs Doodlebob", gameURL: "https://a-nunley.github.io/dev-david/", gameAuthor: "Alex Nunley"};</p>
 <p> let nickGame = {gameName: "David V Goliath", gameURL: "(https://germannnick.github.io/Dev-David-Goliath/)", gameAuthor: "Nick Germann", gameRepo: "https://github.com/germannnick/Dev-David-Goliath"}; </p>
 <p> let tuesdayGame = {gameName: "Find the Surprise!", gameURL: "https://tuesdayannb.github.io/miniature-enigma-david/", gameAuthor: "Tuesday Brown"}; </p>
+<p> ParidhiGame = {gameName: "Wow Game", gameURL: "https://pmalhotra21.github.io/wow-game/", gameAuthor: "Paridhi Malhotra"}; </p>
